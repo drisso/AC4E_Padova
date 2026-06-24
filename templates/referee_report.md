@@ -13,6 +13,14 @@ you as a journal or conference referee.
   finance / other
 - Reviewer role: pre-submission critic / coauthor review / public-paper exercise
 
+## Confidentiality Check
+
+- I am allowed to use AI on this text: yes / no
+- Confidential manuscript or referee assignment excluded: yes / no
+- Private data, raw data, and secrets excluded from prompt context: yes / no
+- Files reviewed:
+- Files not reviewed:
+
 ## Summary
 
 Briefly summarize the research question, method, data or model, and main claim.
@@ -64,3 +72,10 @@ What should the author do first? What should they ignore?
 If this were a real report, this section would include a recommendation. For this
 workshop, state what evidence would be needed before making a recommendation.
 
+## Verification Log
+
+- Commands run:
+- Tables checked:
+- Citations checked:
+- Reviewer or subagent used:
+- Green/yellow/red result:

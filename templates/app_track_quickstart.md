@@ -32,9 +32,14 @@ Artifact paths match the CLI tracks; only setup and resume differ.
 Use a system or integrated **terminal** for:
 
 ```bash
-python3 -m http.server 8000 --directory examples/web-form
-npx playwright codegen http://localhost:8000
-python examples/playwright/fill_demo_form.py
+python3 examples/playwright/fill_demo_form.py
+```
+
+For codegen, start the form server in one terminal and run codegen in another:
+
+```bash
+python3 -m http.server 8000 --bind 127.0.0.1 --directory examples/web-form
+npx playwright codegen http://127.0.0.1:8000
 ```
 
 ## Linux
