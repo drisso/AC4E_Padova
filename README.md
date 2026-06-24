@@ -14,12 +14,13 @@ paper, replication, or teaching project.
 2. Complete [`SETUP.md`](SETUP.md) before the workshop if possible.
 3. Keep [`SCHEDULE.md`](SCHEDULE.md) open during the session.
 4. Use [`GUIDE.md`](GUIDE.md) as the main reference.
-5. Follow the tool-lane instructions in [`materials/tool_tracks.md`](materials/tool_tracks.md).
-6. Run [`examples/card-krueger/`](examples/card-krueger/) for the shared
+5. Follow the live exercises in [`exercises/`](exercises/).
+6. Follow the tool-lane instructions in [`materials/tool_tracks.md`](materials/tool_tracks.md).
+7. Run [`examples/card-krueger/`](examples/card-krueger/) for the shared
    economics example.
-7. Work from [`examples/starter_article/`](examples/starter_article/) when
+8. Work from [`examples/starter_article/`](examples/starter_article/) when
    building your own harness.
-8. Use [`orchestration/`](orchestration/) for issue, cloud-agent, swarm, loop,
+9. Use [`orchestration/`](orchestration/) for issue, cloud-agent, swarm, loop,
    goal, and reviewer templates.
 
 ## Course Snapshot
@@ -57,6 +58,10 @@ By the end of the session, each participant should have at least a draft of:
 |   +-- import_manifest.md
 |   +-- research_article_harness.md
 |   +-- sources.md
++-- exercises/
+|   +-- README.md
+|   +-- 00_orientation.md
+|   +-- ...
 +-- materials/
 |   +-- module_01_foundations.md
 |   +-- module_02_hooks_goals.md

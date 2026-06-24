@@ -15,6 +15,9 @@ session.
 | 03:45-04:30 | Verification | Replication checker, referee reviewer, Playwright evidence | Review or verification log |
 | 04:30-05:00 | Transfer | Checklist, adoption plan, next 7 days | Personal adoption plan |
 
+Exercise files live in [`exercises/`](exercises/) and follow the same block
+order. Use [`exercises/README.md`](exercises/README.md) as the quick map.
+
 ## Demo Sequence
 
 1. Open `examples/card-krueger/`.

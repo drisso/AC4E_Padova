@@ -16,37 +16,8 @@ Update `notes/orchestration_log.md` with what you delegated vs reviewed yourself
 
 ## Adoption plan
 
-Create `outputs/adoption_plan.md`:
-
-```markdown
-# 7-Day Agentic Research Adoption Plan
-
-## Workflow
-
-[One dissertation or JMP workflow name.]
-
-## Harness rows used
-
-[List checklist items: skills, subagents, hooks, replication, referee, Playwright.]
-
-## Why this workflow
-
-[Repetitive, high-value, or painful step.]
-
-## Agent context
-
-- May read:
-- May edit:
-- Must not touch:
-
-## First task (this week)
-
-[Small, verifiable, uses one skill or subagent.]
-
-## Verification
-
-[Command or human check.]
-```
+Create `outputs/adoption_plan.md` from
+[`templates/adoption_plan.md`](../templates/adoption_plan.md).
 
 Prompt:
 

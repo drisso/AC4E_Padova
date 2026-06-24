@@ -16,6 +16,7 @@ Keep these files open:
 
 - [`SCHEDULE.md`](SCHEDULE.md) - live timing and outputs.
 - [`GUIDE.md`](GUIDE.md) - explanations and copy-paste prompts.
+- [`exercises/`](exercises/) - one participant exercise per live block.
 - [`materials/tool_tracks.md`](materials/tool_tracks.md) - Codex, Claude Code,
   and Cursor lanes.
 - [`tool-lanes/`](tool-lanes/) - detailed lane manuals for CLI/app surfaces.
@@ -47,11 +48,14 @@ Keep these files open:
 | Project brief | `templates/project_brief.md` or `examples/starter_article/docs/project_brief.md` |
 | Design memo | `templates/research_design_memo.md` or `examples/starter_article/docs/research_design_memo.md` |
 | Agent instructions | `templates/AGENTS_economics.md` |
+| Exercise sequence | `exercises/` |
 | Tool-lane manual | `tool-lanes/` |
 | Tool-lane harness | `examples/{codex,claude,cursor}/` |
 | Orchestration templates | `orchestration/` |
 | Orchestration log | `notes/orchestration_log_template.md` or `examples/starter_article/notes/orchestration_log.md` |
 | Review log | `templates/review_log.md` |
+| Replication report | `templates/replication_report.md` |
+| Adoption plan | `templates/adoption_plan.md` |
 | Final checklist | `docs/research_article_harness.md` |
 
 ## If You Get Lost

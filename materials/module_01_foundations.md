@@ -8,6 +8,9 @@ Copy the workshop mini repo, set project context, privacy boundaries, and a
 small issue list. Every later module edits the **same** `starter_article` tree.
 
 Pick one lane in [`tool_tracks.md`](tool_tracks.md) (Codex CLI/app, Claude CLI/app, Cursor).
+The matching live exercises are
+[`exercises/00_orientation.md`](../exercises/00_orientation.md) and
+[`exercises/01_foundations.md`](../exercises/01_foundations.md).
 
 ## Concepts
 

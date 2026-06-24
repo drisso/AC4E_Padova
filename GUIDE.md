@@ -63,6 +63,8 @@ data.
 | Transfer | Checklist and adoption | 7-day plan |
 
 See [`SCHEDULE.md`](SCHEDULE.md) for timing.
+Participant exercise files live in [`exercises/`](exercises/) and follow the
+same sequence.
 
 ## Tool Lanes
 

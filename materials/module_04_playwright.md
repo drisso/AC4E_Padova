@@ -31,6 +31,9 @@ Run replication-checker on repo root. Fix any red items or document why yellow
 is acceptable for the workshop demo.
 ```
 
+If you need a written artifact, use
+[`templates/replication_report.md`](../templates/replication_report.md).
+
 ## Part C: Playwright data evidence (~20 min)
 
 Playwright is **terminal-only** for all lanes. The self-contained Python demo

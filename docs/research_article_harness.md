@@ -37,6 +37,14 @@ into your copy of `starter_article`.
 
 Mark each row before you leave. Use your lane’s native paths (`.codex/`, `.claude/`, `.cursor/`).
 
+### Setup and orientation
+
+- [ ] Completed or reviewed `SETUP.md`.
+- [ ] Opened `GUIDE.md`, `SCHEDULE.md`, and `exercises/README.md`.
+- [ ] Can locate the slide-to-demo map in `slides/workshop/demo_map.md`.
+- [ ] Chose one tool lane in `materials/tool_tracks.md`.
+- [ ] Ran or inspected the runnable Card-Krueger example in `examples/card-krueger/`.
+
 ### Scaffold (Module 1)
 
 - [ ] Copied `examples/starter_article/` to a working folder (or forked on GitHub).
@@ -44,6 +52,7 @@ Mark each row before you leave. Use your lane’s native paths (`.codex/`, `.cla
 - [ ] `AGENTS.md` (or `CLAUDE.md`) lists repo map, verification commands, and “Do not” rules.
 - [ ] `.cursorignore` or equivalent excludes raw/confidential data from agent context.
 - [ ] At least three GitHub issues (or markdown issue list) for memo, estimation, and review.
+- [ ] At least one issue names branch, allowed files, forbidden files, acceptance criteria, reviewer, and PR evidence.
 - [ ] Optional: copied one issue pattern from `orchestration/cloud_agent_issue_template.md`.
 
 ### Harness stack (Module 2)
@@ -54,6 +63,7 @@ Mark each row before you leave. Use your lane’s native paths (`.codex/`, `.cla
 - [ ] Configured at least one **hook** (Codex, Claude, or Cursor).
 - [ ] Created or invoked one **subagent** (for example `replication-verifier`, `data-reviewer`, or `identification-reviewer`).
 - [ ] (Cursor lane) Reviewed `mcp.json.example`; optional: one FRED series logged in memo.
+- [ ] Installed or mapped the harness files from your lane README.
 - [ ] Ran one **long-running goal** or checkpointed session with explicit stopping conditions.
 - [ ] Optional: used `orchestration/verification_loop.md` to record green/yellow/red exit status.
 
@@ -65,13 +75,13 @@ Mark each row before you leave. Use your lane’s native paths (`.codex/`, `.cla
 ### Quality + acquisition (Module 4)
 
 - [ ] Referee-style report on non-confidential text (`templates/referee_report.md`).
-- [ ] Replication-checker report (green/yellow/red) for `starter_article`.
+- [ ] Replication-checker report or `templates/replication_report.md` result (green/yellow/red) for `starter_article`.
 - [ ] Playwright script or spec that fills `examples/web-form` and saves evidence for `data_source_map.md`.
 
 ### Sign-off (Module 5)
 
 - [ ] `notes/orchestration_log.md` lists what you delegated vs reviewed yourself.
-- [ ] `outputs/adoption_plan.md` maps one dissertation workflow to harness rows above.
+- [ ] `outputs/adoption_plan.md` or `templates/adoption_plan.md` maps one dissertation workflow to harness rows above.
 - [ ] You can explain which tasks agents should **not** own (identification claims, novel contribution).
 
 ## Ethics
@@ -83,5 +93,5 @@ Mark each row before you leave. Use your lane’s native paths (`.codex/`, `.cla
 ## Follow-on
 
 The full [Agentic Coding for Economists](https://github.com/antoniomele/AgenticCodingForEconomists)
-course adds multi-day SDD, GitHub swarms, and cloud agents. This four-hour workshop
+course adds multi-day SDD, GitHub swarms, and cloud agents. This five-hour workshop
 delivers the **minimum harness** you can extend on your dissertation repo.
